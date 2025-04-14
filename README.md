@@ -1,5 +1,5 @@
 # Min SuHyun👍
-## GSC at YJU 2025
+## いっそ楽しもう Magic で日々を
 
 ![min-shy03's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-shy03&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-shy03&theme=onedark)
