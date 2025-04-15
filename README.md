@@ -1,3 +1,5 @@
+<div align="center">
+
 # Min SuHyun👍
 ## いっそ楽しもう Magic で日々を
 
