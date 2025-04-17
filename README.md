@@ -1,6 +1,6 @@
 <div align="center">
 
-# SuHyun's GitHub👍
+# Su Hyun's GitHub👍
 ## いっそ楽しもう Magic で日々を
 
 ![min-shy03's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-shy03&show_icons=true&theme=onedark)
